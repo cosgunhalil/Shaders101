@@ -12,9 +12,13 @@ Shader "Shaders101/BasicCutaway"
 	{      
 		Pass
 		{
+
+            Cull Off
+
 			CGPROGRAM
 			#pragma vertex vert
 			#pragma fragment frag
+           
 
             struct vertexInput
             {
