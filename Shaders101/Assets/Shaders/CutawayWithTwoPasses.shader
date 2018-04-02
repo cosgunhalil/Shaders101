@@ -12,7 +12,7 @@ Shader "Shaders101/CutawayWithTwoPasses"
 
 	SubShader
 	{
-
+ 
         //execute earlier than the second pass
 		Pass
 		{
