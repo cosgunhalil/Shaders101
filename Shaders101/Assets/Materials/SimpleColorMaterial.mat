@@ -75,8 +75,10 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 0.8482759, b: 0, a: 0.697}
+    - _ColorBack: {r: 0.6397059, g: 0.39511245, b: 0.39511245, a: 0.378}
     - _ColorCullBack: {r: 1, g: 1, b: 1, a: 1}
     - _ColorCullFront: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorFront: {r: 0.33088237, g: 0.2116674, b: 0.2116674, a: 0.697}
     - _CullLimit: {r: 0.41, g: 0.22, b: -0.14, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FarColor: {r: 0.33034167, g: 0.34495732, b: 0.3455882, a: 1}
