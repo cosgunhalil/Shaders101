@@ -74,7 +74,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.366, g: 0.4877193, b: 0.07201559, a: 0.178}
+    - _Color: {r: 0.366, g: 0.4877193, b: 0.07201559, a: 0.459}
     - _ColorBack: {r: 0.6397059, g: 0.39511245, b: 0.39511245, a: 0.378}
     - _ColorCullBack: {r: 1, g: 1, b: 1, a: 1}
     - _ColorCullFront: {r: 0, g: 0, b: 0, a: 0}
