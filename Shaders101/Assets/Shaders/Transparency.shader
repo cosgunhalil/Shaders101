@@ -9,7 +9,7 @@
 	{      
 		Pass
 		{
-             Cull Front
+             Cull Front// render back faces first
 			 ZWrite Off
              Blend SrcAlpha OneMinusSrcAlpha // alpha blending
 
@@ -36,7 +36,7 @@
 
         Pass
         {
-             Cull Back
+             Cull Back // render front faces first
              ZWrite Off
              Blend SrcAlpha OneMinusSrcAlpha // alpha blending
 
