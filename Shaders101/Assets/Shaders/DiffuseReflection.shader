@@ -59,4 +59,5 @@ Shader "Shaders101/Lighting/DiffuseReflection"
 			ENDCG
 		}
 	}
+    Fallback "Diffuse"
 }
